@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #0F3D3E;
+}
+h1 {
+    color: #FFFFFF;
+}
+#text-area {
+    width: 80%;
+    height: 200px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #132E35;
+    color: #FFFFFF;
+}
+#resp {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #777;
+}
